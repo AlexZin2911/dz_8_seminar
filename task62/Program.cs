@@ -6,7 +6,7 @@
 // 11 16 15 6
 // 10 9 8 7
 
-int n = 5;
+int n = 4;
 int[,] sqareMatrix = new int[n, n];
 
 int temp = 1;
